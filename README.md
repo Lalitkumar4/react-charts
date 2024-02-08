@@ -1,2 +1,2 @@
 # React Charts
-React Charts using recharts
+React Charts built using recharts
